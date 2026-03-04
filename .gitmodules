@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DDESONN"]
+	path = DDESONN
+	url = https://github.com/mathatter/ddesonn
 [submodule "olr"]
 	path = olr
 	url = https://github.com/mathatter/olr_r
